@@ -8,7 +8,7 @@
 LeafCareAI is a machine learning-based project designed to identify and diagnose plant diseases using leaf images. This tool aims to assist farmers and gardeners in maintaining healthy crops by providing quick and accurate disease detection. It also integrates a chat feature for personalized predictions, treatments, and remedies, ensuring users receive comprehensive support.
 
 The project is deployed and accessible at:
-- **Frontend**: [LeafCareAI Website](https://leafcareai.vercel.app)
+- **Website**: [LeafCareAI Website](https://leafcareai.vercel.app)
 - **API**: [LeafCareAI API](https://leafcareapi.onrender.com)
 
 ## How to Run
@@ -62,15 +62,13 @@ The project is deployed and accessible at:
 
 - Upload leaf images for disease detection.
 - Get detailed diagnostic results.
-- Suggestions for treatment and prevention.
-- Integrated chat for personalized predictions, remedies, and treatments.
-- User-friendly interface for farmers and gardeners.
+- Integrated chat for  prediction prevention, remedies, and treatments.
 
 ## Contributing
 
-We welcome contributions to improve LeafCareAI! Feel free to:
-- **Submit Suggestions**: Share your ideas for new features or improvements.
-- **Report Issues**: If you encounter any bugs or problems, please [open an issue](https://github.com/GNANESWARARAO-POLAKI/LeafCareAI/issues).
+We encourage you to contribute to LeafCareAI! You can:
+- **Share Suggestions**: Have ideas for new features or improvements? Let us know!
+- **Report Issues**: Found a bug or problem? Please [open an issue](https://github.com/GNANESWARARAO-POLAKI/LeafCareAI/issues) to help us improve.
 
 ## License
 
