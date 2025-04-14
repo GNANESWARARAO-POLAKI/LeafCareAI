@@ -1,0 +1,6 @@
+api/
+vercelapi/
+testing/
+.env
+# .vercel/
+# vercel.json
