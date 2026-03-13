@@ -17,7 +17,7 @@ The project is deployed and accessible at:
 
 1. **Clone the Repository**  
     ```bash
-    git clone https://github.com/yourusername/LeafCareAI.git
+    git clone https://github.com/gnaneswararao-polaki/LeafCareAI.git
     cd LeafCareAI
     ```
 
@@ -73,3 +73,4 @@ We encourage you to contribute to LeafCareAI! You can:
 ## License
 
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
+
